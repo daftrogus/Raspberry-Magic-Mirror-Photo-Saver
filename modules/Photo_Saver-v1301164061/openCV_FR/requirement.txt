@@ -1,0 +1,7 @@
+imutils
+numpy
+scipy
+scikit-learn
+face_recognition
+argparse
+opencv-python
